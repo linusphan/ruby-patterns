@@ -1,5 +1,5 @@
 # About
 
-This repository is a collection of any type of JavaScript code patterns that I
-encounter for quick and easy reference. Code also includes patterns for
-frameworks such as Rails.
+This repository is a collection of patterns or random code in Ruby that I
+encounter. This is for quick/easy reference and/or practice/keeping sharp on my
+Ruby skills. Repo may contain Rails or other framework/library code.
